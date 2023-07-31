@@ -412,8 +412,7 @@ CETV-4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
 
 早期教育高清,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 歌华有线,#genre#
-4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+
 CCTV16-4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV16UHD_25000
 CCTV-4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
 CCTV1,https://live.goodiptv.club/api/ghyx.php?id=CCTV1HD_6000
@@ -726,6 +725,37 @@ CGTV「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000
 云南卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
 三沙卫视「IPV6」,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 黑龙江卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001031/index.m3u8?
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
+中天亚洲台,http://162.19.247.76:22222/live/ztyz/index.m3u8
+翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
+J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
+TVB J5,http://162.19.247.76:22222/live/tvbj5/index.m3u8
+三立台湾,http://162.19.247.76:22222/live/uch5/index.m3u8
+三立都会台,http://162.19.247.76:22222/live/uch6/index.m3u8
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+天映经典台,http://162.19.247.76:22222/live/tyjd/index.m3u8
+东森戏剧台,http://162.19.247.76:22222/live/dsxj/index.m3u8
+东森电影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8
+欢喜台,http://162.19.247.76:22222/live/uch3/index.m3u8
+AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
+华视,http://162.19.247.76:22222/live/huashi/index.m3u8
+无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
+天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
+中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
+中天亚洲,http://162.19.247.76:22222/live/ztyz/index.m3u8
+翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
+无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+j2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
+彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
+彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
 
 第一财经「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
 金鹰纪实「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
