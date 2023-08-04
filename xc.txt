@@ -970,42 +970,6 @@ iHOT爱院线「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/60
 快乐垂钓「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001235/index.m3u8?
 茶频道「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001234/index.m3u8?
 中国交通「IPV6」,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000438/index.m3u8?IAS
-
-「HK」翡翠台,https://iptv.yang-1989.top/api/tvb.php?id=0
-「HK」翡翠台,http://60.208.16.27:1505/gudou.php?id=364&id=1350_4500
-「HK」翡翠台,http://r.jdshipin.com/n90gt
-「HK」翡翠台,http://r.jdshipin.com/qClQf
-「HK」翡翠台,http://r.jdshipin.com/62WM7
-「HK」明珠台,http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
-「HK」明珠台,http://lu1.cc/a/play/php/gudou.php?id=mzt
-「HK」J2,https://iptv.yang-1989.top/api/tvb.php?id=1
-「HK」J2,http://r.jdshipin.com/Nr5jq
-「HK」无线新闻,https://iptv.yang-1989.top/api/tvb.php?id=4
-「HK」无线财经体育资讯台,https://iptv.yang-1989.top/api/tvb.php?id=6
-「HK」VIU TV,http://r.jdshipin.com/vSJvl
-「HK」凤凰中文,http://113.64.147.186:8081/hls/36/index.m3u8
-「HK」凤凰资讯,http://113.64.147.186:8081/hls/37/index.m3u8
-「HK」凤凰资讯,http://r.jdshipin.com/0Rp07
-「HK」凤凰香港,http://113.64.147.186:8081/hls/38/index.m3u8
-「HK」星河台•粤语,http://113.64.147.186:8081/hls/135/index.m3u8
-「HK」星河台•国语,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571186&extension=ts
-「MO」澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
-「MO」澳亚卫视,http://lu1.cc/a/play/php/gudou.php?id=ayws
-
-民视,rtmp://119.81.124.89/sat/tv051
-华视,rtmp://119.81.124.89/sat/tv111
-台视,rtmp://119.81.124.89/sat/tv071
-中视,rtmp://119.81.124.89/sat/tv091
-东森超视,rtmp://119.81.124.89/sat/tv331
-东森财经新闻,rtmp://119.81.124.89/sat/tv571
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-TVBS新闻,rtmp://119.81.124.89/sat/tv551
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS欢乐,rtmp://119.81.124.89/sat/tv421
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-
 CNR 大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 CNR 经典广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
@@ -1032,3 +996,35 @@ CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 「解说」美剧,https://www.goodiptv.club/huya/20488841
 「解说」七龙珠,https://www.goodiptv.club/huya/25650806
 「解说」止戈电影,https://www.goodiptv.club/huya/19863777
+港台频道,#genre#
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台視新聞 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+CNA亞洲新聞 International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA亞洲新聞 Singapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+无线财经資訊台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+星卫电影台,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+RTHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+翡翠台,http://r.jdshipin.com/62WM7
