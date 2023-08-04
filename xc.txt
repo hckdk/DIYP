@@ -996,35 +996,3 @@ CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 「解说」美剧,https://www.goodiptv.club/huya/20488841
 「解说」七龙珠,https://www.goodiptv.club/huya/25650806
 「解说」止戈电影,https://www.goodiptv.club/huya/19863777
-港台频道,#genre#
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視新聞 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
-台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-CNA亞洲新聞 International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA亞洲新聞 Singapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-无线财经資訊台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-星卫电影台,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
-RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-RTHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
