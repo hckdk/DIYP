@@ -934,15 +934,3 @@ CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 CNR 阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-
-「解说」大象放映室,https://www.goodiptv.club/huya/21277391
-「解说」电视剧,https://www.goodiptv.club/huya/25018873
-「解说」电影•1,https://www.goodiptv.club/huya/20289754
-「解说」电影•2,https://www.goodiptv.club/huya/24983280
-「解说」电影•3,https://www.goodiptv.club/huya/24396428
-「解说」动漫•1,https://www.goodiptv.club/huya/19757963
-「解说」恐怖电影,https://www.goodiptv.club/huya/23419131
-「解说」漫威,https://www.goodiptv.club/huya/17089779
-「解说」美剧,https://www.goodiptv.club/huya/20488841
-「解说」七龙珠,https://www.goodiptv.club/huya/25650806
-「解说」止戈电影,https://www.goodiptv.club/huya/19863777
